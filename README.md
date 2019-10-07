@@ -1,6 +1,6 @@
-MySensors Library v2.3.2-beta
+IYSensor Library v2.3.2-beta
 
-Please visit www.mysensors.org for more information
+Please visit www.iytwist.com for more information
 
 Current version in Arduino IDE [![arduino-library-badge](https://www.ardu-badge.com/badge/MySensors.svg)](https://www.ardu-badge.com/MySensors)
 
